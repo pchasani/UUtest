@@ -1,7 +1,9 @@
 # UUtest
 
 @article{chasani2022uu,
+
   title={The UU-test for statistical modeling of unimodal data},
+  
   author={Chasani, Paraskevi and Likas, Aristidis},
   journal={Pattern Recognition},
   volume={122},
