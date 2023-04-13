@@ -4,12 +4,12 @@ UU-test (Unimodal Uniform test) is a method for modeling one dimensional data ge
 
 
 
-@article{chasani2022uu,  
-  &nbsp;&nbsp;&nbsp;&nbsp;title={The UU-test for statistical modeling of unimodal data},  
-  &nbsp;&nbsp;&nbsp;&nbsp;author={Chasani, Paraskevi and Likas, Aristidis},  
-  &nbsp;&nbsp;&nbsp;&nbsp;journal={Pattern Recognition},  
-  &nbsp;&nbsp;&nbsp;&nbsp;volume={122},  
-  &nbsp;&nbsp;&nbsp;&nbsp;pages={108272},  
-  &nbsp;&nbsp;&nbsp;&nbsp;year={2022},  
-  &nbsp;&nbsp;&nbsp;&nbsp;publisher={Elsevier}  
+> @article{chasani2022uu,<br>
+   title={The UU-test for statistical modeling of unimodal data},    
+  author={Chasani, Paraskevi and Likas, Aristidis},  
+  journal={Pattern Recognition},    
+  volume={122},  
+  pages={108272},  
+ year={2022},  
+  publisher={Elsevier}  
 }
